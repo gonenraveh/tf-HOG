@@ -1,4 +1,9 @@
 # tf-HOG
+
+Updated by myself OCT 2023 as a learning project:
+1. works with TF2.5.0 and up
+2. demo generates few images with different comp.vision algorithms
+   
 The histogram of oriented gradients (HOG) implemented in tensorflow. Based on the codes from [digamma-ai's tfcv](https://github.com/digamma-ai/tfcv), where I made the following changes:
 
 1. Fixing the bugs when running with newer version tensorflow (>=1.4).
