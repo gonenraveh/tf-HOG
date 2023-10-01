@@ -1,7 +1,3 @@
-# ssh timon
-# source /product/dpc_cls/virtual_env/py3-tf-gpu-2.5.0-cuda-11.0/bin/activate.csh
-# python tfcv.py
-
 import tensorflow as tf
 from PIL import Image
 import numpy as np
